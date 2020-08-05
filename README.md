@@ -12,7 +12,7 @@
 
 ## 📢 About
 
-**Proffy** é um projeto fullstack criado durante a ** 2ª edição da ** Next Level Week ** promovida pela Rocketseat.
+**Proffy** é um projeto fullstack criado durante a **2ª** edição da **Next Level Week** promovida pela Rocketseat.
 
 O objetivo deste projeto é colocar em prática as melhores tecnologias disponíveis no mercado de desenvolvimento web para criar um aplicativo compatível com computadores e dispositivos móveis.
 
