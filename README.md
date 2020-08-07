@@ -10,7 +10,7 @@
     </h2>
 </h1>
 
-## 📢 About
+## 📢 Sobre
 
 **Proffy** é um projeto fullstack criado durante a **2ª** edição da **Next Level Week** promovida pela Rocketseat.
 
