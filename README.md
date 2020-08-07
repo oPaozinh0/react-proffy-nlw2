@@ -10,7 +10,7 @@
     </h2>
 </h1>
 
-## 📢 About
+## 📢 Sobre
 
 **Proffy** é um projeto fullstack criado durante a **2ª** edição da **Next Level Week** promovida pela Rocketseat.
 
@@ -23,7 +23,7 @@ Com o **Proffy**, o usuário poderá escolher entre aprender ou ensinar. Veja al
     * Entre em contato com um Proffy
     * Favorito um Proffy
     * Filtrar por: matéria, dia da semana e hora
-* **Ensinar**
+* **Ensine**
     * Crie um perfil
     * Crie uma matéria
 
@@ -59,7 +59,7 @@ Com o **Proffy**, o usuário poderá escolher entre aprender ou ensinar. Veja al
 > **REQUISITO**: Você vai precisar do **Yarn**(ou NPM) e **NodeJS**
 
 ```bash
-# Clone this repository
+# Clone esta repo
 $ git clone https://github.com/zBreadz/react-proffy-nlw2.git
 ```
 
@@ -87,5 +87,15 @@ $ cd server
 $ yarn knex:migrate
 
 # Rode o servidor local
+$ yarn start
+```
+
+### Coloque o app (mobile) para funcionar
+
+```bash
+# vá até /mobile
+$ cd mobile
+
+# Rode o app
 $ yarn start
 ```
