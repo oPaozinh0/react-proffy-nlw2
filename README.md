@@ -89,3 +89,13 @@ $ yarn knex:migrate
 # Rode o servidor local
 $ yarn start
 ```
+
+### Coloque o app (mobile) para funcionar
+
+```bash
+# vá até /mobile
+$ cd mobile
+
+# Rode o app
+$ yarn start
+```
