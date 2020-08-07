@@ -23,7 +23,7 @@ Com o **Proffy**, o usuário poderá escolher entre aprender ou ensinar. Veja al
     * Entre em contato com um Proffy
     * Favorito um Proffy
     * Filtrar por: matéria, dia da semana e hora
-* **Ensinar**
+* **Ensine**
     * Crie um perfil
     * Crie uma matéria
 
