@@ -59,7 +59,7 @@ Com o **Proffy**, o usuário poderá escolher entre aprender ou ensinar. Veja al
 > **REQUISITO**: Você vai precisar do **Yarn**(ou NPM) e **NodeJS**
 
 ```bash
-# Clone this repository
+# Clone esta repo
 $ git clone https://github.com/zBreadz/react-proffy-nlw2.git
 ```
 
