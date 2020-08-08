@@ -36,6 +36,10 @@ Com o **Proffy**, o usuário poderá escolher entre aprender ou ensinar. Veja al
 
 * ReactJS
 
+* React Native
+
+* Expo
+
 * TypeScript / JavaScript
 
 * React Router v4
@@ -95,6 +99,9 @@ $ yarn start
 ```bash
 # vá até /mobile
 $ cd mobile
+
+# adicione o expo ao projeto
+$ yarn add expo
 
 # Rode o app
 $ yarn start
