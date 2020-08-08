@@ -28,6 +28,8 @@ function TeacherList(){
             }
         });
 
+        console.log(response.data);
+
         setTeachers(response.data);
     }
 

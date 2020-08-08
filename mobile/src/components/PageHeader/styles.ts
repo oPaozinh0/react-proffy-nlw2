@@ -5,8 +5,15 @@ const styles = StyleSheet.create({
         padding: 40,
         backgroundColor: '#8257E5',
     },
+
     topBar: {
         marginTop: 10,
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+    },
+
+    header: {
         flexDirection: 'row',
         alignItems: 'center',
         justifyContent: 'space-between',
