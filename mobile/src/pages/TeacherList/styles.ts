@@ -5,6 +5,23 @@ const styles = StyleSheet.create({
         flex: 1,
         backgroundColor: '#F0F0F7',
     },
+
+    filterButton: {
+        height: 50,
+        width: 50,
+        borderRadius: 8,
+        backgroundColor: '#643CC1',
+        alignItems: 'center',
+        alignContent: 'center',
+    },
+
+    filterImg: {
+        marginTop: 15,
+        alignSelf: 'auto',
+        alignItems: 'center',
+        textAlign: 'center',
+    },
+
     teacherList: {
         marginTop: -40,
     },
@@ -16,6 +33,26 @@ const styles = StyleSheet.create({
     label: {
         color: '#D4C2FF',
         fontFamily: 'Poppins_400Regular',
+    },
+
+    pickerContainer: {
+        height: 74,
+    },
+
+    picker: {
+        borderTopLeftRadius: 8, 
+        borderTopRightRadius: 8,
+        borderBottomLeftRadius: 8, 
+        borderBottomRightRadius: 8,
+        backgroundColor: '#FFF',
+        paddingHorizontal: 16,
+        marginTop: 4,
+        marginBottom: 16,
+    },
+
+    pickerDD: {
+        backgroundColor: '#fafafa',
+        marginTop: 2,
     },
 
     inputGroup: {
@@ -44,6 +81,7 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'center',
         alignItems: 'center',
+        alignContent: 'center',
     },
 
     submitButtonText: {
